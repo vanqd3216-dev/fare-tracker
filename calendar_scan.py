@@ -107,8 +107,9 @@ def main():
     if not routes:
         raise SystemExit("No routes configured")
 
-    shards = int(os.environ.get("CAL_SHARDS", "24"))
-    shard = int(os.environ.get("CAL_SHARD", str(datetime.datetime.utcnow().hour % shards)))
+    shards = int((os.environ.get("CAL_SHARDS") or "24").strip())
+    shard_env = (os.environ.get("CAL_SHARD") or "").strip()
+    shard = int(shard_env) if shard_env else (datetime.datetime.now(datetime.timezone.utc).hour % shards)
 
     today = datetime.date.today()
     all_dates = [(today + datetime.timedelta(days=i)).isoformat()
