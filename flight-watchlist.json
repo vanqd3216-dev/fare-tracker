@@ -1,0 +1,12 @@
+{
+  "_comment": "Routes for the cloud fare tracker (real Google Flights data via fast-flights). 'target' = email me when best fare is at or below this USD number (null = no target). Optional per route: 'date' (yyyy-mm-dd) overrides departureDate; 'cabin' (M/W/C/F).",
+  "origins": ["SFO", "OAK", "SJC"],
+  "departureDate": "2026-08-19",
+  "alertOnDropPct": 10,
+  "routes": [
+    { "id": "nyc", "to": "JFK", "label": "New York",     "target": null },
+    { "id": "lax", "to": "LAX", "label": "Los Angeles",  "target": null },
+    { "id": "sea", "to": "SEA", "label": "Seattle",      "target": null },
+    { "id": "hnl", "to": "HNL", "label": "Honolulu",     "target": null }
+  ]
+}
