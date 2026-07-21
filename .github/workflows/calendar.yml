@@ -43,7 +43,7 @@ jobs:
           git config user.name "fare-tracker-bot"
           git config user.email "actions@github.com"
           git pull --rebase --autostash || true
-          git add calendar_latest.csv calendar_prev.csv
+          git add calendar_latest.csv calendar_prev.csv 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
