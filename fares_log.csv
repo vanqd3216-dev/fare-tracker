@@ -1,0 +1,5 @@
+timestamp_iso,route_id,label,origin,dest,price_usd,airline,stops,depart_date,booking_url
+2026-07-21T02:48:28+00:00,nyc,New York,SFO,JFK,180,American,1,2026-08-19,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20JFK%20on%202026-08-19%20one%20way
+2026-07-21T02:48:28+00:00,lax,Los Angeles,SFO,LAX,44,Frontier,0,2026-08-19,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20LAX%20on%202026-08-19%20one%20way
+2026-07-21T02:48:28+00:00,sea,Seattle,SFO,SEA,79,United,0,2026-08-19,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SEA%20on%202026-08-19%20one%20way
+2026-07-21T02:48:28+00:00,hnl,Honolulu,SFO,HNL,157,,Unknown,2026-08-19,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20HNL%20on%202026-08-19%20one%20way
