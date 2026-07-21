@@ -1,0 +1,52 @@
+name: Fare calendar (sharded)
+
+on:
+  schedule:
+    - cron: "20 * * * *"     # hourly at :20 (offset from the point-in-time tracker)
+  workflow_dispatch:
+    inputs:
+      shard:
+        description: "Optional shard index to run (0-23). Leave blank to use the current hour."
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fare-calendar
+  cancel-in-progress: false
+
+jobs:
+  calendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scan calendar shard
+        env:
+          CAL_SHARDS: "24"
+          CAL_SHARD: ${{ github.event.inputs.shard }}
+        run: python calendar_scan.py
+
+      - name: Commit calendar
+        run: |
+          git config user.name "fare-tracker-bot"
+          git config user.email "actions@github.com"
+          git pull --rebase --autostash || true
+          git add calendar_latest.csv calendar_prev.csv
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Calendar shard $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
