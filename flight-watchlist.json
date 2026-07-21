@@ -1,30 +1,12 @@
 {
-  "_comment": "Auto-generated from the dashboard watchlist. 'target' = alert when best fare <= this USD amount (null = none).",
-  "origins": [
-    "SFO",
-    "OAK",
-    "SJC"
-  ],
+  "_comment": "Routes for the cloud fare tracker + 12-month calendar (real Google Flights via fast-flights). 'only' = list of IATA airline codes to restrict to (post-fetch filter; matched by airline name). 'target' = alert when best fare <= this USD number (null = none). Optional per route: 'date' (yyyy-mm-dd), 'cabin' (M/W/C/F).",
+  "origins": ["SFO", "OAK", "SJC"],
   "departureDate": "2026-08-19",
   "alertOnDropPct": 10,
   "routes": [
-    {
-      "id": "nrt",
-      "to": "NRT",
-      "label": "Tokyo, Japan (NRT)",
-      "target": null
-    },
-    {
-      "id": "sgn",
-      "to": "SGN",
-      "label": "Ho Chi Minh City, Vietnam (SGN)",
-      "target": null
-    },
-    {
-      "id": "tpe",
-      "to": "TPE",
-      "label": "Taipei, Taiwan (TPE)",
-      "target": null
-    }
+    { "id": "nrt-zg",  "to": "NRT", "label": "Tokyo (ZIPAIR)",       "only": ["ZG"],             "target": null },
+    { "id": "nrt-any", "to": "NRT", "label": "Tokyo (any airline)",  "target": null },
+    { "id": "sgn",     "to": "SGN", "label": "Ho Chi Minh City",     "only": ["JX", "VN", "CI"], "target": null },
+    { "id": "tpe",     "to": "TPE", "label": "Taipei",              "target": null }
   ]
 }

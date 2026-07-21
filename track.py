@@ -29,6 +29,21 @@ HEADER = ["timestamp_iso", "route_id", "label", "origin", "dest",
 SEAT = {"M": "economy", "W": "premium-economy", "C": "business", "F": "first"}
 
 
+CODE2NAME = {
+    "ZG": "ZIPAIR", "NH": "ANA", "JL": "Japan Airlines", "MM": "Peach", "GK": "Jetstar",
+    "JX": "STARLUX", "CI": "China Airlines", "BR": "EVA", "VN": "Vietnam Airlines",
+    "SQ": "Singapore", "TG": "Thai", "KE": "Korean Air", "OZ": "Asiana", "CX": "Cathay",
+    "UA": "United", "AA": "American", "DL": "Delta", "AS": "Alaska", "HA": "Hawaiian",
+    "B6": "JetBlue", "WN": "Southwest", "F9": "Frontier", "NK": "Spirit",
+    "PR": "Philippine", "VJ": "VietJet", "5J": "Cebu Pacific", "CA": "Air China",
+    "MU": "China Eastern", "CZ": "China Southern", "MH": "Malaysia", "GA": "Garuda",
+}
+
+
+def allowed_names(route):
+    return [CODE2NAME.get(c, c) for c in (route.get("only") or [])]
+
+
 def price_to_int(p):
     """'$224' / '224 US dollars' -> 224 ; unavailable -> None."""
     if not p:
@@ -42,7 +57,7 @@ def gflights_url(origin, dest, date):
     return "https://www.google.com/travel/flights?q=" + urllib.parse.quote(q)
 
 
-def cheapest_for(origin, dest, date, seat):
+def cheapest_for(origin, dest, date, seat, allowed=None):
     """Return (price_int, airline, stops, url) for the cheapest one-way, or None."""
     try:
         res = get_flights(
@@ -57,11 +72,14 @@ def cheapest_for(origin, dest, date, seat):
         return None
     best = None
     for fl in getattr(res, "flights", []) or []:
+        name = getattr(fl, "name", "") or ""
+        if allowed and not any(a.lower() in name.lower() for a in allowed):
+            continue                                   # honor route's airline filter
         price = price_to_int(getattr(fl, "price", None))
         if price is None:
             continue
         if best is None or price < best[0]:
-            best = (price, getattr(fl, "name", "?"), getattr(fl, "stops", "?"),
+            best = (price, name or "?", getattr(fl, "stops", "?"),
                     gflights_url(origin, dest, date))
     return best
 
@@ -119,9 +137,10 @@ def main():
             dest, label = rt["to"], rt.get("label", rt["to"])
             date = rt.get("date") or depart
             seat = SEAT.get(rt.get("cabin", ""), "economy")
+            allowed = allowed_names(rt)
             best = None
             for o in origins:
-                res = cheapest_for(o, dest, date, seat)
+                res = cheapest_for(o, dest, date, seat, allowed)
                 if res and (best is None or res[0] < best[0]):
                     best = (res[0], o, res[1], res[2], res[3])
             if best is None:

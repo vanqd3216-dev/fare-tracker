@@ -69,6 +69,25 @@ Commit the change and the next run uses it.
 
 ---
 
+## 12-month fare calendar (sharded, optional)
+
+`calendar_scan.py` + `.github/workflows/calendar.yml` build a **full 12-month
+fare calendar** — the cheapest one-way price for every departure date over the
+next year, from **all 3 Bay airports** — for each route in `flight-watchlist.json`.
+
+To avoid Google Flights rate-limiting, it does **not** scan everything at once.
+It runs **hourly** and each run refreshes only ~1/24th of the dates (a rotating
+"shard"), so each run makes only ~150–200 requests. Over 24 hours the whole
+calendar is refreshed on a rolling basis. Outputs:
+
+- `calendar_latest.csv` — the rolling calendar (one row per route × airport × date)
+- `calendar_prev.csv` — a daily baseline snapshot, so price changes can be shown
+
+It's enabled automatically once the workflow file is in the repo (no extra
+secrets). To force a specific slice, use **Actions → Fare calendar → Run workflow**
+and enter a shard number 0–23. GitHub Actions is free/unlimited for public repos,
+so this costs nothing and never touches your computer or Claude usage.
+
 ## Notes & limits
 
 - **Data source:** live Google Flights fares via `fast-flights`. Always confirm
