@@ -40,7 +40,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-09-10,595,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-09-10%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-09-11,595,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-09-11%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-09-12,553,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-09-12%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-09-13,529,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-09-13%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-09-13,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-09-13%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-09-14,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-09-14%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-09-15,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-09-15%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-09-16,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-09-16%20one%20way
@@ -64,7 +64,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-04,659,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-04%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-05,558,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-05%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-06,640,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-06%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-07,695,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-07%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-07,695,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-07%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-08,700,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-08%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-09,742,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-09%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-10,632,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-10%20one%20way
@@ -88,7 +88,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-28,631,Alaska,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-28%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-29,640,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-29%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-30,659,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-30%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-31,640,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-31%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-10-31,574,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-10-31%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-01,640,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-01%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-02,590,"Alaska, American, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-02%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-03,632,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-03%20one%20way
@@ -112,7 +112,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-21,700,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-21%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-22,662,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-22%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-23,640,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-23%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-24,593,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-24%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-24,553,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-24%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-25,691,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-25%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-26,595,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-26%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-11-27,589,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-11-27%20one%20way
@@ -136,7 +136,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-12-15,1071,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-12-15%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-12-16,1325,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-12-16%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-12-17,1373,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-12-17%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-12-18,1484,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-12-18%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-12-18,1520,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-12-18%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-12-19,1418,Alaska,1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-12-19%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-12-20,1331,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-12-20%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2026-12-21,1319,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202026-12-21%20one%20way
@@ -160,7 +160,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-01-08,835,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-01-08%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-01-09,553,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-01-09%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-01-10,548,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-01-10%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-01-11,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-01-11%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-01-11,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-01-11%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-01-12,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-01-12%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-01-13,529,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-01-13%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-01-14,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-01-14%20one%20way
@@ -184,7 +184,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-01,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-01%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-02,548,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-02%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-03,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-03%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-04,665,Alaska,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-04%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-04,595,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-04%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-05,595,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-05%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-06,553,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-06%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-07,529,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-07%20one%20way
@@ -208,7 +208,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-25,595,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-25%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-26,677,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-26%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-27,553,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-27%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-28,618,Alaska,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-28%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-02-28,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-02-28%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-01,548,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-01%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-02,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-02%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-03,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-03%20one%20way
@@ -232,7 +232,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-21,786,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-21%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-22,636,"Alaska, Hainan",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-22%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-23,613,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-23%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-24,739,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-24%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-24,739,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-24%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-25,847,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-25%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-26,1132,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-26%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-03-27,850,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-03-27%20one%20way
@@ -256,7 +256,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-04-14,617,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-04-14%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-04-15,679,Alaska,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-04-15%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-04-16,752,Alaska,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-04-16%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-04-17,747,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-04-17%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-04-17,747,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-04-17%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-04-18,752,Alaska,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-04-18%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-04-19,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-04-19%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-04-20,529,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-04-20%20one%20way
@@ -280,7 +280,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-05-08,668,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-05-08%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-05-09,687,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-05-09%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-05-10,668,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-05-10%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-05-11,593,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-05-11%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-05-11,593,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-05-11%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-05-12,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-05-12%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-05-13,589,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-05-13%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-05-14,717,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-05-14%20one%20way
@@ -304,7 +304,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-01,657,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-01%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-02,657,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-02%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-03,717,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-03%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-04,717,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-04%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-04,717,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-04%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-05,717,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-05%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-06,834,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-06%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-07,657,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-07%20one%20way
@@ -328,7 +328,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-25,792,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-25%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-26,717,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-26%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-27,732,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-27%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-28,657,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-28%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-28,657,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-28%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-29,657,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-29%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-06-30,657,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-06-30%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,OAK,2027-07-01,792,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20NRT%20on%202027-07-01%20one%20way
@@ -384,7 +384,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-09-10,429,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-09-10%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-09-11,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-09-11%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-09-12,490,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-09-12%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-09-13,490,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-09-13%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-09-13,490,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-09-13%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-09-14,429,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-09-14%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-09-15,429,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-09-15%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-09-16,429,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-09-16%20one%20way
@@ -408,7 +408,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-04,486,Philippine Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-04%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-05,486,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-05%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-06,534,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-06%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-07,559,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-07%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-07,557,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-07%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-08,574,EVA Air,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-08%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-09,525,Philippine Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-09%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-10,525,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-10%20one%20way
@@ -432,7 +432,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-28,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-28%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-29,475,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-29%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-30,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-30%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-31,525,Philippine Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-31%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-10-31,525,Philippine Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-31%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-01,486,Philippine Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-01%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-02,484,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-02%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-03,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-03%20one%20way
@@ -456,7 +456,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-21,587,"United, ANA",1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-21%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-22,535,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-22%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-23,475,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-23%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-24,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-24%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-24,527,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-24%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-25,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-25%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-26,475,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-26%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-11-27,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-27%20one%20way
@@ -480,7 +480,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-12-15,571,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-12-15%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-12-16,1244,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-12-16%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-12-17,1240,WestJet,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-12-17%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-12-18,1277,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-12-18%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-12-18,1388,WestJet,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-12-18%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-12-19,1398,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-12-19%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-12-20,1331,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-12-20%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2026-12-21,1156,WestJet,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-12-21%20one%20way
@@ -504,7 +504,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-01-08,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-01-08%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-01-09,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-01-09%20one%20way
 2026-08-21T20:41:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-01-10,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-01-10%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-01-11,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-01-11%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-01-11,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-01-11%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-01-12,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-01-12%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-01-13,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-01-13%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-01-14,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-01-14%20one%20way
@@ -528,7 +528,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-01,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-01%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-02,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-02%20one%20way
 2026-08-21T20:41:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-03,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-03%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-04,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-04%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-04,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-04%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-05,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-05%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-06,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-06%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-07,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-07%20one%20way
@@ -552,7 +552,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-25,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-25%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-26,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-26%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-27,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-27%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-28,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-28%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-02-28,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-28%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-01,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-01%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-02,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-02%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-03,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-03%20one%20way
@@ -576,7 +576,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-21,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-21%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-22,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-22%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-23,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-23%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-24,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-24%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-24,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-24%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-25,459,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-25%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-26,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-26%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-03-27,484,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-27%20one%20way
@@ -600,7 +600,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-04-14,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-04-14%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-04-15,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-04-15%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-04-16,535,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-04-16%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-04-17,535,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-04-17%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-04-17,535,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-04-17%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-04-18,490,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-04-18%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-04-19,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-04-19%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-04-20,475,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-04-20%20one%20way
@@ -624,7 +624,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-05-08,587,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-05-08%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-05-09,535,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-05-09%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-05-10,475,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-05-10%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-05-11,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-05-11%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-05-11,475,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-05-11%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-05-12,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-05-12%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-05-13,527,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-05-13%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-05-14,525,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-05-14%20one%20way
@@ -648,7 +648,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-01,752,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-01%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-02,913,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-02%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-03,767,"Air Canada, Philippine Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-03%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-04,983,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-04%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-04,983,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-04%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-05,761,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-05%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-06,950,EVA Air,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-06%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-07,916,EVA Air,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-07%20one%20way
@@ -672,7 +672,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-25,694,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-25%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-26,744,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-26%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-27,694,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-27%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-28,634,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-28%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-28,634,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-28%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-29,634,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-29%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-06-30,634,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-06-30%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SFO,2027-07-01,684,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-07-01%20one%20way
@@ -734,7 +734,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-09-10,593,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-09-10%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-09-11,595,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-09-11%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-09-12,553,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-09-12%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-09-13,529,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-09-13%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-09-13,529,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-09-13%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-09-14,548,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-09-14%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-09-15,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-09-15%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-09-16,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-09-16%20one%20way
@@ -758,7 +758,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-04,588,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-04%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-05,585,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-05%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-06,581,American,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-06%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-07,638,American,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-07%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-07,631,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-07%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-08,700,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-08%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-09,703,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-09%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-10,632,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-10%20one%20way
@@ -782,7 +782,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-28,634,Alaska,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-28%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-29,625,American,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-29%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-30,625,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-30%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-31,581,American,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-31%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-10-31,581,American,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-10-31%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-01,631,United,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-01%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-02,575,American,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-02%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-03,529,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-03%20one%20way
@@ -806,7 +806,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-21,835,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-21%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-22,575,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-22%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-23,552,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-23%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-24,575,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-24%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-24,544,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-24%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-25,548,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-25%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-26,595,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-26%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-11-27,589,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-11-27%20one%20way
@@ -830,7 +830,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-12-15,957,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-12-15%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-12-16,1324,"Alaska, Air Canada",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-12-16%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-12-17,1373,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-12-17%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-12-18,1463,Alaska,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-12-18%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-12-18,1552,"Alaska, Korean Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-12-18%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-12-19,1398,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-12-19%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-12-20,1331,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-12-20%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2026-12-21,1331,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202026-12-21%20one%20way
@@ -854,7 +854,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-01-08,653,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-01-08%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-01-09,553,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-01-09%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-01-10,548,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-01-10%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-01-11,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-01-11%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-01-11,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-01-11%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-01-12,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-01-12%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-01-13,548,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-01-13%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-01-14,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-01-14%20one%20way
@@ -878,7 +878,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-01,590,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-01%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-02,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-02%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-03,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-03%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-04,595,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-04%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-04,595,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-04%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-05,595,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-05%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-06,581,"American, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-06%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-07,529,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-07%20one%20way
@@ -902,7 +902,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-25,589,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-25%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-26,589,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-26%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-27,553,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-27%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-28,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-28%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-02-28,529,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-02-28%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-01,548,"Alaska, JAL",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-01%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-02,548,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-02%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-03,529,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-03%20one%20way
@@ -926,7 +926,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-21,692,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-21%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-22,647,"Alaska, Hainan",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-22%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-23,624,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-23%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-24,692,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-24%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-24,692,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-24%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-25,1013,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-25%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-26,1038,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-26%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-03-27,803,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-03-27%20one%20way
@@ -950,7 +950,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-04-14,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-04-14%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-04-15,670,Alaska,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-04-15%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-04-16,653,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-04-16%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-04-17,727,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-04-17%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-04-17,727,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-04-17%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-04-18,727,"Delta, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-04-18%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-04-19,632,Alaska,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-04-19%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-04-20,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-04-20%20one%20way
@@ -974,7 +974,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-05-08,668,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-05-08%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-05-09,668,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-05-09%20one%20way
 2026-08-22T19:34:40+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-05-10,668,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-05-10%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-05-11,668,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-05-11%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-05-11,668,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-05-11%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-05-12,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-05-12%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-05-13,730,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-05-13%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-05-14,680,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-05-14%20one%20way
@@ -998,7 +998,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-01,732,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-01%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-02,834,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-02%20one%20way
 2026-08-21T20:41:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-03,1061,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-03%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-04,717,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-04%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-04,717,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-04%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-05,1039,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-05%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-06,717,"Alaska, Cathay Pacific",3,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-06%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-07,994,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-07%20one%20way
@@ -1022,7 +1022,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-25,1061,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-25%20one%20way
 2026-08-22T18:48:46+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-26,1039,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-26%20one%20way
 2026-08-21T20:41:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-27,1024,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-27%20one%20way
-2026-08-21T21:38:21+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-28,990,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-28%20one%20way
+2026-08-22T20:39:30+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-28,979,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-28%20one%20way
 2026-08-21T22:41:50+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-29,732,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-29%20one%20way
 2026-08-21T23:38:35+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-06-30,732,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-06-30%20one%20way
 2026-08-18T03:13:06+00:00,nrt-any,Tokyo (any airline),NRT,SJC,2027-07-01,1067,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20NRT%20on%202027-07-01%20one%20way
@@ -1104,7 +1104,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-04,559,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-04%20one%20way
 2026-08-22T18:48:46+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-05,559,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-05%20one%20way
 2026-08-22T19:34:40+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-06,534,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-06%20one%20way
-2026-08-15T03:08:02+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-07,559,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-07%20one%20way
+2026-08-22T20:39:30+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-07,559,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-07%20one%20way
 2026-08-20T23:40:25+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-08,609,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-08%20one%20way
 2026-08-21T23:38:35+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-09,689,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-09%20one%20way
 2026-08-18T03:13:06+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-10,609,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-10%20one%20way
@@ -1128,7 +1128,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-28,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-28%20one%20way
 2026-08-22T18:48:46+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-29,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-29%20one%20way
 2026-08-20T21:43:13+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-30,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-30%20one%20way
-2026-08-21T21:38:21+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-31,534,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-31%20one%20way
+2026-08-22T20:39:30+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-10-31,534,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-10-31%20one%20way
 2026-08-21T22:41:50+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-01,534,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-01%20one%20way
 2026-08-21T23:38:35+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-02,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-02%20one%20way
 2026-08-18T03:13:06+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-03,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-03%20one%20way
@@ -1152,7 +1152,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-07-22T00:12:17+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-21,984,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-21%20one%20way
 2026-08-22T18:48:46+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-22,684,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-22%20one%20way
 2026-08-22T19:34:40+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-23,534,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-23%20one%20way
-2026-08-20T22:45:06+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-24,534,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-24%20one%20way
+2026-08-22T20:39:30+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-24,534,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-24%20one%20way
 2026-08-15T04:51:41+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-25,534,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-25%20one%20way
 2026-08-10T10:02:13+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-26,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-26%20one%20way
 2026-08-18T03:13:06+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2026-11-27,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202026-11-27%20one%20way
@@ -1219,7 +1219,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-01,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-01%20one%20way
 2026-08-22T18:48:46+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-02,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-02%20one%20way
 2026-08-22T19:34:40+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-03,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-03%20one%20way
-2026-08-21T21:38:21+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-04,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-04%20one%20way
+2026-08-22T20:39:30+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-04,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-04%20one%20way
 2026-08-14T05:19:31+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-05,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-05%20one%20way
 2026-08-17T03:29:29+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-06,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-06%20one%20way
 2026-08-18T03:13:06+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-07,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-07%20one%20way
@@ -1243,7 +1243,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-25,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-25%20one%20way
 2026-08-21T19:37:15+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-26,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-26%20one%20way
 2026-08-22T19:34:40+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-27,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-27%20one%20way
-2026-08-19T23:56:57+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-28,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-28%20one%20way
+2026-08-22T20:39:30+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-02-28,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-02-28%20one%20way
 2026-08-20T23:40:25+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-01,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-01%20one%20way
 2026-08-21T23:38:35+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-02,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-02%20one%20way
 2026-08-16T05:46:11+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-03,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-03%20one%20way
@@ -1267,7 +1267,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-21,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-21%20one%20way
 2026-08-20T20:46:16+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-22,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-22%20one%20way
 2026-08-22T19:34:40+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-23,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-23%20one%20way
-2026-08-21T21:38:21+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-24,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-24%20one%20way
+2026-08-22T20:39:30+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-24,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-24%20one%20way
 2026-08-21T22:41:50+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-25,459,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-25%20one%20way
 2026-08-10T10:02:13+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-26,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-26%20one%20way
 2026-08-18T03:13:06+00:00,nrt-zg,Tokyo (ZIPAIR),NRT,SFO,2027-03-27,484,ZIPAIR Tokyo,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20NRT%20on%202027-03-27%20one%20way
@@ -1386,7 +1386,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-11-21,728,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-11-21%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-11-22,574,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-11-22%20one%20way
 2026-08-21T20:41:06+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-11-23,578,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-11-23%20one%20way
-2026-08-20T22:45:06+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-11-24,598,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-11-24%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-11-24,598,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-11-24%20one%20way
 2026-08-15T04:51:41+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-11-25,759,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-11-25%20one%20way
 2026-08-17T03:29:29+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-11-26,598,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-11-26%20one%20way
 2026-08-15T06:00:26+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-11-27,759,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-11-27%20one%20way
@@ -1410,7 +1410,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-12-15,900,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-12-15%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-12-16,1628,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-12-16%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-12-17,1724,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-12-17%20one%20way
-2026-08-20T22:45:06+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-12-18,1679,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-12-18%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-12-18,1760,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-12-18%20one%20way
 2026-08-21T22:41:50+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-12-19,1626,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-12-19%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-12-20,1407,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-12-20%20one%20way
 2026-08-18T03:13:06+00:00,sgn,Ho Chi Minh City,SGN,OAK,2026-12-21,1379,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202026-12-21%20one%20way
@@ -1434,7 +1434,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,OAK,2027-01-08,632,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202027-01-08%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,OAK,2027-01-09,613,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202027-01-09%20one%20way
 2026-08-20T21:43:13+00:00,sgn,Ho Chi Minh City,SGN,OAK,2027-01-10,638,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202027-01-10%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,OAK,2027-01-11,599,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202027-01-11%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,OAK,2027-01-11,599,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202027-01-11%20one%20way
 2026-08-21T22:41:50+00:00,sgn,Ho Chi Minh City,SGN,OAK,2027-01-12,599,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202027-01-12%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,OAK,2027-01-13,619,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202027-01-13%20one%20way
 2026-08-15T06:00:26+00:00,sgn,Ho Chi Minh City,SGN,OAK,2027-01-14,619,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20SGN%20on%202027-01-14%20one%20way
@@ -1490,7 +1490,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-09-10,461,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-09-10%20one%20way
 2026-08-21T19:37:15+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-09-11,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-09-11%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-09-12,461,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-09-12%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-09-13,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-09-13%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-09-13,461,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-09-13%20one%20way
 2026-08-15T04:51:41+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-09-14,453,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-09-14%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-09-15,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-09-15%20one%20way
 2026-08-15T06:00:26+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-09-16,454,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-09-16%20one%20way
@@ -1538,7 +1538,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-10-28,461,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-10-28%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-10-29,461,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-10-29%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-10-30,461,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-10-30%20one%20way
-2026-08-20T22:45:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-10-31,454,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-10-31%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-10-31,461,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-10-31%20one%20way
 2026-08-21T22:41:50+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-01,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-01%20one%20way
 2026-08-17T03:29:29+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-02,454,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-02%20one%20way
 2026-08-16T05:46:11+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-03,454,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-03%20one%20way
@@ -1562,7 +1562,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-21,595,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-21%20one%20way
 2026-08-21T19:37:15+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-22,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-22%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-23,461,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-23%20one%20way
-2026-08-19T23:56:57+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-24,454,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-24%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-24,461,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-24%20one%20way
 2026-08-20T23:40:25+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-25,454,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-25%20one%20way
 2026-08-17T03:29:29+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-26,454,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-26%20one%20way
 2026-08-18T03:13:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-11-27,454,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-11-27%20one%20way
@@ -1586,7 +1586,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-12-15,900,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-12-15%20one%20way
 2026-08-20T20:46:16+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-12-16,1135,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-12-16%20one%20way
 2026-08-20T21:43:13+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-12-17,1554,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-12-17%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-12-18,2027,STARLUX Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-12-18%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-12-18,2160,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-12-18%20one%20way
 2026-08-20T23:40:25+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-12-19,1507,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-12-19%20one%20way
 2026-08-10T10:02:13+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-12-20,1286,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-12-20%20one%20way
 2026-08-18T03:13:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2026-12-21,1136,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202026-12-21%20one%20way
@@ -1610,7 +1610,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-01-08,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-01-08%20one%20way
 2026-08-21T19:37:15+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-01-09,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-01-09%20one%20way
 2026-08-21T20:41:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-01-10,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-01-10%20one%20way
-2026-08-20T22:45:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-01-11,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-01-11%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-01-11,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-01-11%20one%20way
 2026-08-21T22:41:50+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-01-12,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-01-12%20one%20way
 2026-08-10T10:02:13+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-01-13,480,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-01-13%20one%20way
 2026-08-15T06:00:26+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-01-14,480,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-01-14%20one%20way
@@ -1634,7 +1634,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-02-01,512,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-02-01%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-02-02,512,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-02-02%20one%20way
 2026-08-21T20:41:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-02-03,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-02-03%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-02-04,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-02-04%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-02-04,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-02-04%20one%20way
 2026-08-21T22:41:50+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-02-05,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-02-05%20one%20way
 2026-08-10T10:02:13+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-02-06,480,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-02-06%20one%20way
 2026-08-18T03:13:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-02-07,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-02-07%20one%20way
@@ -1682,7 +1682,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-03-21,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-03-21%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-03-22,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-03-22%20one%20way
 2026-08-21T20:41:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-03-23,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-03-23%20one%20way
-2026-08-19T23:56:57+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-03-24,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-03-24%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-03-24,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-03-24%20one%20way
 2026-08-21T22:41:50+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-03-25,474,Vietnam Airlines,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-03-25%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-03-26,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-03-26%20one%20way
 2026-08-15T06:00:26+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-03-27,514,Vietnam Airlines,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-03-27%20one%20way
@@ -1706,7 +1706,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-04-14,474,Vietnam Airlines,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-04-14%20one%20way
 2026-08-21T19:37:15+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-04-15,474,Vietnam Airlines,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-04-15%20one%20way
 2026-08-20T21:43:13+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-04-16,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-04-16%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-04-17,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-04-17%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-04-17,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-04-17%20one%20way
 2026-08-20T23:40:25+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-04-18,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-04-18%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-04-19,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-04-19%20one%20way
 2026-08-18T03:13:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-04-20,481,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-04-20%20one%20way
@@ -1730,7 +1730,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-05-08,512,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-05-08%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-05-09,512,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-05-09%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-05-10,512,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-05-10%20one%20way
-2026-08-20T22:45:06+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-05-11,512,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-05-11%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-05-11,512,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-05-11%20one%20way
 2026-08-16T03:28:42+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-05-12,474,Vietnam Airlines,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-05-12%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-05-13,474,Vietnam Airlines,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-05-13%20one%20way
 2026-08-16T05:46:11+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-05-14,512,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-05-14%20one%20way
@@ -1754,7 +1754,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-06-01,894,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-06-01%20one%20way
 2026-08-21T19:37:15+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-06-02,894,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-06-02%20one%20way
 2026-08-20T21:43:13+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-06-03,894,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-06-03%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-06-04,894,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-06-04%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-06-04,894,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-06-04%20one%20way
 2026-08-21T22:41:50+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-06-05,894,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-06-05%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-06-06,894,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-06-06%20one%20way
 2026-08-15T06:00:26+00:00,sgn,Ho Chi Minh City,SGN,SFO,2027-06-07,893,China Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20SGN%20on%202027-06-07%20one%20way
@@ -1859,7 +1859,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-20T19:45:35+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-10-04,555,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-10-04%20one%20way
 2026-08-19T21:12:50+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-10-05,578,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-10-05%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-10-06,578,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-10-06%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-10-07,628,"Alaska, Cathay Pacific, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-10-07%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-10-07,628,"Alaska, Cathay Pacific, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-10-07%20one%20way
 2026-08-21T22:41:50+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-10-08,628,"Alaska, Cathay Pacific, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-10-08%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-10-09,760,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-10-09%20one%20way
 2026-08-18T03:13:06+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-10-10,578,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-10-10%20one%20way
@@ -1907,7 +1907,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-11T04:06:22+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-11-21,712,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-11-21%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-11-22,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-11-22%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-11-23,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-11-23%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-11-24,461,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-11-24%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-11-24,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-11-24%20one%20way
 2026-08-20T23:40:25+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-11-25,457,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-11-25%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-11-26,457,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-11-26%20one%20way
 2026-08-16T05:46:11+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-11-27,456,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-11-27%20one%20way
@@ -1931,7 +1931,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-12-15,900,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-12-15%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-12-16,1002,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-12-16%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-12-17,1405,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-12-17%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-12-18,1457,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-12-18%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-12-18,1760,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-12-18%20one%20way
 2026-08-21T22:41:50+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-12-19,1455,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-12-19%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-12-20,1265,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-12-20%20one%20way
 2026-08-18T03:13:06+00:00,sgn,Ho Chi Minh City,SGN,SJC,2026-12-21,1205,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202026-12-21%20one%20way
@@ -2003,7 +2003,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-02-25,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-02-25%20one%20way
 2026-08-21T19:37:15+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-02-26,619,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-02-26%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-02-27,599,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-02-27%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-02-28,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-02-28%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-02-28,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-02-28%20one%20way
 2026-08-16T03:28:42+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-01,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-01%20one%20way
 2026-08-17T03:29:29+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-02,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-02%20one%20way
 2026-08-16T05:46:11+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-03,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-03%20one%20way
@@ -2027,7 +2027,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-21,678,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-21%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-22,599,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-22%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-23,599,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-23%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-24,619,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-24%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-24,619,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-24%20one%20way
 2026-08-20T23:40:25+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-25,805,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-25%20one%20way
 2026-08-21T23:38:35+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-26,815,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-26%20one%20way
 2026-08-18T03:13:06+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-03-27,749,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-03-27%20one%20way
@@ -2051,7 +2051,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-04-14,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-04-14%20one%20way
 2026-08-22T18:48:46+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-04-15,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-04-15%20one%20way
 2026-08-22T19:34:40+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-04-16,678,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-04-16%20one%20way
-2026-08-21T21:38:21+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-04-17,619,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-04-17%20one%20way
+2026-08-22T20:39:30+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-04-17,619,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-04-17%20one%20way
 2026-08-16T03:28:42+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-04-18,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-04-18%20one%20way
 2026-08-17T03:29:29+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-04-19,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-04-19%20one%20way
 2026-08-18T03:13:06+00:00,sgn,Ho Chi Minh City,SGN,SJC,2027-04-20,484,"Delta, Vietnam Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20SGN%20on%202027-04-20%20one%20way
@@ -2118,7 +2118,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,OAK,2026-09-10,473,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-09-10%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,OAK,2026-09-11,473,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-09-11%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,OAK,2026-09-12,453,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-09-12%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,OAK,2026-09-13,473,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-09-13%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,OAK,2026-09-13,440,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-09-13%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,OAK,2026-09-14,473,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-09-14%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,OAK,2026-09-15,473,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-09-15%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,OAK,2026-09-16,419,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-09-16%20one%20way
@@ -2142,7 +2142,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,OAK,2026-10-04,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-04%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,OAK,2026-10-05,506,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-05%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,OAK,2026-10-06,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-06%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,OAK,2026-10-07,478,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-07%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,OAK,2026-10-07,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-07%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,OAK,2026-10-08,478,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-08%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,OAK,2026-10-09,551,"Alaska, China Airlines",1,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-09%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,OAK,2026-10-10,425,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-10%20one%20way
@@ -2166,7 +2166,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,OAK,2026-10-28,461,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-28%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,OAK,2026-10-29,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-29%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,OAK,2026-10-30,461,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-30%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,OAK,2026-10-31,495,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-31%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,OAK,2026-10-31,511,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-10-31%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,OAK,2026-11-01,495,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-11-01%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,OAK,2026-11-02,478,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-11-02%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,OAK,2026-11-03,403,"Alaska, Asiana Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-11-03%20one%20way
@@ -2214,7 +2214,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,OAK,2026-12-15,899,"Alaska, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-12-15%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,OAK,2026-12-16,946,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-12-16%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,OAK,2026-12-17,1093,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-12-17%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,OAK,2026-12-18,1157,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-12-18%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,OAK,2026-12-18,1157,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-12-18%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,OAK,2026-12-19,1325,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-12-19%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,OAK,2026-12-20,1121,"Alaska, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-12-20%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,OAK,2026-12-21,972,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202026-12-21%20one%20way
@@ -2238,7 +2238,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,OAK,2027-01-08,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-01-08%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,OAK,2027-01-09,522,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-01-09%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,OAK,2027-01-10,517,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-01-10%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,OAK,2027-01-11,487,"Alaska, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-01-11%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,OAK,2027-01-11,487,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-01-11%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,OAK,2027-01-12,487,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-01-12%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,OAK,2027-01-13,487,"Alaska, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-01-13%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,OAK,2027-01-14,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-01-14%20one%20way
@@ -2262,7 +2262,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,OAK,2027-02-01,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-02-01%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,OAK,2027-02-02,500,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-02-02%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,OAK,2027-02-03,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-02-03%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,OAK,2027-02-04,500,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-02-04%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,OAK,2027-02-04,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-02-04%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,OAK,2027-02-05,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-02-05%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,OAK,2027-02-06,500,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-02-06%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,OAK,2027-02-07,500,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20OAK%20to%20TPE%20on%202027-02-07%20one%20way
@@ -2318,7 +2318,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SFO,2026-09-10,424,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-09-10%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SFO,2026-09-11,424,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-09-11%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SFO,2026-09-12,424,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-09-12%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SFO,2026-09-13,424,Asiana Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-09-13%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SFO,2026-09-13,424,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-09-13%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SFO,2026-09-14,424,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-09-14%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SFO,2026-09-15,424,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-09-15%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SFO,2026-09-16,415,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-09-16%20one%20way
@@ -2366,7 +2366,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SFO,2026-10-28,424,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-10-28%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SFO,2026-10-29,424,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-10-29%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SFO,2026-10-30,424,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-10-30%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SFO,2026-10-31,424,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-10-31%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SFO,2026-10-31,424,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-10-31%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SFO,2026-11-01,424,Asiana Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-01%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SFO,2026-11-02,424,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-02%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SFO,2026-11-03,415,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-03%20one%20way
@@ -2390,7 +2390,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SFO,2026-11-21,506,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-21%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SFO,2026-11-22,424,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-22%20one%20way
 2026-08-21T20:41:06+00:00,tpe,Taipei,TPE,SFO,2026-11-23,424,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-23%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SFO,2026-11-24,424,Asiana Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-24%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SFO,2026-11-24,424,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-24%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SFO,2026-11-25,424,Asiana Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-25%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SFO,2026-11-26,424,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-26%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SFO,2026-11-27,415,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-11-27%20one%20way
@@ -2414,7 +2414,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SFO,2026-12-15,674,Korean Air,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-12-15%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SFO,2026-12-16,1056,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-12-16%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SFO,2026-12-17,1132,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-12-17%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SFO,2026-12-18,1172,Turkish Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-12-18%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SFO,2026-12-18,1398,Turkish Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-12-18%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SFO,2026-12-19,1152,"Delta, Korean Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-12-19%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SFO,2026-12-20,1132,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-12-20%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SFO,2026-12-21,1001,"Air Canada, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202026-12-21%20one%20way
@@ -2486,7 +2486,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SFO,2027-02-25,438,Philippine Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-02-25%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SFO,2027-02-26,475,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-02-26%20one%20way
 2026-08-21T20:41:06+00:00,tpe,Taipei,TPE,SFO,2027-02-27,478,China Airlines,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-02-27%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SFO,2027-02-28,438,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-02-28%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SFO,2027-02-28,438,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-02-28%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SFO,2027-03-01,438,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-01%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SFO,2027-03-02,430,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-02%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SFO,2027-03-03,430,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-03%20one%20way
@@ -2510,7 +2510,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SFO,2027-03-21,438,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-21%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SFO,2027-03-22,438,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-22%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SFO,2027-03-23,430,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-23%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SFO,2027-03-24,430,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-24%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SFO,2027-03-24,430,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-24%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SFO,2027-03-25,463,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-25%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SFO,2027-03-26,463,China Airlines,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-26%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SFO,2027-03-27,496,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-03-27%20one%20way
@@ -2534,7 +2534,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SFO,2027-04-14,430,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-04-14%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SFO,2027-04-15,463,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-04-15%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SFO,2027-04-16,463,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-04-16%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SFO,2027-04-17,463,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-04-17%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SFO,2027-04-17,463,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-04-17%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SFO,2027-04-18,463,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-04-18%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SFO,2027-04-19,438,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-04-19%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SFO,2027-04-20,430,Cathay Pacific,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-04-20%20one%20way
@@ -2558,7 +2558,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,tpe,Taipei,TPE,SFO,2027-05-08,490,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-05-08%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SFO,2027-05-09,475,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-05-09%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SFO,2027-05-10,438,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-05-10%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SFO,2027-05-11,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-05-11%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SFO,2027-05-11,475,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-05-11%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SFO,2027-05-12,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-05-12%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SFO,2027-05-13,475,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-05-13%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SFO,2027-05-14,490,Philippine Airlines,1,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-05-14%20one%20way
@@ -2582,7 +2582,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SFO,2027-06-01,592,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-06-01%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SFO,2027-06-02,592,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-06-02%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SFO,2027-06-03,592,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-06-03%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SFO,2027-06-04,649,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-06-04%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SFO,2027-06-04,615,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-06-04%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SFO,2027-06-05,592,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-06-05%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SFO,2027-06-06,592,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-06-06%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SFO,2027-06-07,626,United,0,https://www.google.com/travel/flights?q=Flights%20from%20SFO%20to%20TPE%20on%202027-06-07%20one%20way
@@ -2690,7 +2690,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,tpe,Taipei,TPE,SJC,2026-10-04,419,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-04%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SJC,2026-10-05,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-05%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SJC,2026-10-06,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-06%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SJC,2026-10-07,478,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-07%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SJC,2026-10-07,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-07%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SJC,2026-10-08,478,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-08%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SJC,2026-10-09,643,"Alaska, EVA Air",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-09%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SJC,2026-10-10,425,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-10%20one%20way
@@ -2714,7 +2714,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,tpe,Taipei,TPE,SJC,2026-10-28,419,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-28%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SJC,2026-10-29,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-29%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SJC,2026-10-30,461,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-30%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SJC,2026-10-31,478,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-31%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SJC,2026-10-31,491,"United, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-10-31%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SJC,2026-11-01,478,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-01%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SJC,2026-11-02,478,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-02%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SJC,2026-11-03,419,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-03%20one%20way
@@ -2738,7 +2738,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SJC,2026-11-21,506,Delta,2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-21%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SJC,2026-11-22,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-22%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SJC,2026-11-23,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-23%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SJC,2026-11-24,478,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-24%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SJC,2026-11-24,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-24%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SJC,2026-11-25,478,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-25%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SJC,2026-11-26,478,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-26%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SJC,2026-11-27,419,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-11-27%20one%20way
@@ -2762,7 +2762,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SJC,2026-12-15,824,"Delta, Korean Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-12-15%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SJC,2026-12-16,946,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-12-16%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SJC,2026-12-17,1058,"Alaska, China Airlines",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-12-17%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SJC,2026-12-18,1253,"Alaska, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-12-18%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SJC,2026-12-18,1341,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-12-18%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SJC,2026-12-19,1001,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-12-19%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SJC,2026-12-20,1121,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-12-20%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SJC,2026-12-21,972,"Alaska, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202026-12-21%20one%20way
@@ -2786,7 +2786,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SJC,2027-01-08,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-01-08%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SJC,2027-01-09,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-01-09%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SJC,2027-01-10,506,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-01-10%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SJC,2027-01-11,487,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-01-11%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SJC,2027-01-11,487,"Alaska, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-01-11%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SJC,2027-01-12,487,"Alaska, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-01-12%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SJC,2027-01-13,487,"Alaska, Jetstar",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-01-13%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SJC,2027-01-14,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-01-14%20one%20way
@@ -2834,7 +2834,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-21T18:55:43+00:00,tpe,Taipei,TPE,SJC,2027-02-25,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-02-25%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SJC,2027-02-26,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-02-26%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SJC,2027-02-27,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-02-27%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SJC,2027-02-28,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-02-28%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SJC,2027-02-28,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-02-28%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SJC,2027-03-01,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-01%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SJC,2027-03-02,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-02%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SJC,2027-03-03,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-03%20one%20way
@@ -2858,7 +2858,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SJC,2027-03-21,568,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-21%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SJC,2027-03-22,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-22%20one%20way
 2026-08-21T20:41:06+00:00,tpe,Taipei,TPE,SJC,2027-03-23,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-23%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SJC,2027-03-24,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-24%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SJC,2027-03-24,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-24%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SJC,2027-03-25,529,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-25%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SJC,2027-03-26,713,"Alaska, EVA Air",1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-26%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SJC,2027-03-27,510,"Delta, Korean Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-03-27%20one%20way
@@ -2882,7 +2882,7 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SJC,2027-04-14,440,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-04-14%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SJC,2027-04-15,490,"Alaska, JAL",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-04-15%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SJC,2027-04-16,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-04-16%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SJC,2027-04-17,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-04-17%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SJC,2027-04-17,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-04-17%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SJC,2027-04-18,500,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-04-18%20one%20way
 2026-08-21T23:38:35+00:00,tpe,Taipei,TPE,SJC,2027-04-19,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-04-19%20one%20way
 2026-08-18T03:13:06+00:00,tpe,Taipei,TPE,SJC,2027-04-20,500,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-04-20%20one%20way
@@ -2906,5 +2906,5 @@ scanned_at,route_id,label,dest,origin,depart_date,price_usd,airline,stops,bookin
 2026-08-22T17:35:21+00:00,tpe,Taipei,TPE,SJC,2027-05-08,511,Delta,1,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-05-08%20one%20way
 2026-08-22T18:48:46+00:00,tpe,Taipei,TPE,SJC,2027-05-09,542,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-05-09%20one%20way
 2026-08-22T19:34:40+00:00,tpe,Taipei,TPE,SJC,2027-05-10,529,"Alaska, Cathay Pacific",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-05-10%20one%20way
-2026-08-21T21:38:21+00:00,tpe,Taipei,TPE,SJC,2027-05-11,461,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-05-11%20one%20way
+2026-08-22T20:39:30+00:00,tpe,Taipei,TPE,SJC,2027-05-11,461,?,Unknown,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-05-11%20one%20way
 2026-08-21T22:41:50+00:00,tpe,Taipei,TPE,SJC,2027-05-12,461,"Alaska, EVA Air",2,https://www.google.com/travel/flights?q=Flights%20from%20SJC%20to%20TPE%20on%202027-05-12%20one%20way
